@@ -1,0 +1,6 @@
+aryan,12345,0
+tim,12345,0
+reily,12345,0
+admin,12345,1
+cody,12345,0
+sanjali,12345,0
